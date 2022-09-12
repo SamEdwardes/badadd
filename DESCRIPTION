@@ -1,6 +1,6 @@
 Package: badadd
 Title: Incorrectly Add Numbers Together
-Version: 0.0.0.9001
+Version: 0.0.1
 Authors@R: 
     person("Sam", "Edwardes", , "edwardes.s@gmail.com", role = c("aut", "cre"))
 Description: Functions that inccorect perform mathematical operations. You would
